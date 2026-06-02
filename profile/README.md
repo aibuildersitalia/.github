@@ -4,9 +4,10 @@
 
 ### La community italiana di chi costruisce con l'AI.
 
-Non solo teoria: persone che progettano, automatizzano e spediscono prodotti reali con l'intelligenza artificiale.
+Uno spazio per imparare, confrontarsi e crescere insieme ad altri professionisti
+che usano l'intelligenza artificiale nel proprio lavoro.
 
-[**→ Entra nella community**](https://aibuildersitalia.com)
+[**Entra nella community →**](https://aibuildersitalia.com)
 
 </div>
 
@@ -14,17 +15,17 @@ Non solo teoria: persone che progettano, automatizzano e spediscono prodotti rea
 
 ## Per chi è
 
-Per chi vuole **saper costruire con l'AI** — che tu venga dal codice o no.
-Founder, freelance, professionisti, sviluppatori e curiosi che invece di parlare di AI la usano per fare cose.
+Per chi vuole imparare a costruire con l'AI, che arrivi dallo sviluppo software o meno.
+Founder, freelance, professionisti e sviluppatori che usano l'intelligenza artificiale ogni giorno.
 
-## Cosa trovi dentro
+## Cosa offre
 
-- 🤝 **Una rete di builder italiani** — confronto vero tra persone che stanno costruendo, non un feed di hype.
-- 🎓 **Contenuti e percorsi pratici** — dal primo prompt fino a flussi di lavoro e prodotti completi.
-- 🛠️ **Strumenti condivisi** — un marketplace privato di plugin e skill per Claude Code, costruito dalla community per la community.
-- 🇮🇹 **Tutto in italiano**, pensato per il mercato italiano.
+- **Una rete di professionisti italiani** con cui confrontarsi e fare domande concrete.
+- **Contenuti e percorsi pratici**, dalle basi fino a progetti completi.
+- **Strumenti condivisi**: un marketplace di plugin e skill per Claude Code, curato dalla community.
+- **Tutto in italiano**, pensato per il contesto italiano.
 
-## Come si entra
+## Come partecipare
 
 L'accesso alla community e agli strumenti è riservato ai membri.
 
@@ -37,5 +38,5 @@ L'accesso alla community e agli strumenti è riservato ai membri.
 ---
 
 <div align="center">
-<sub>AI Builders Italia · Costruito in Italia 🇮🇹</sub>
+<sub>AI Builders Italia</sub>
 </div>
